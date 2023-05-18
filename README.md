@@ -37,7 +37,7 @@ Here are some ideas to get you started:
     <p>:telescope: I’m currently finishing my front end/back end/data science analysis program with an expected graduation in May 2023.
     <p>:seedling: I'm currently learning about data structures and algorithms to better understand computer science fundamentals.
     <p>:zap: In my free time, I'm a musician and singer working on an independent album.
-    <p>:mailbox: Questions? Reach out to me: <a href="your-linkedin-URL">
+    <p>:mailbox: Questions? Reach out to me on <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   </div>
@@ -54,7 +54,6 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-
 </div>
   
 ---
