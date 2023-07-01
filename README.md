@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   <div align="left">
     <p> :woman_technologist: I am an aspiring Full Stack Developer in Chicago, Illinois seeking to keep learning in a junior dev role.
     <p>:computer: I'm also a TechOps professional with recent Chicago fintech startup experience.
-    <p>:telescope: I’m currently finishing my full-stack web development program with an expected graduation in June 2023.
+    <p>:telescope: I finished my fullstack software development bootcamp in June 2023.
     <p>:seedling: I'm currently learning about data structures and algorithms to better understand computer science fundamentals.
     <p>:zap: In my free time, I'm a musician and singer working on an independent album.
     <p>:mailbox: Questions? Reach out to me on <a href="your-linkedin-URL">
