@@ -36,7 +36,8 @@ Here are some ideas to get you started:
     <p>:computer: I'm also a TechOps professional with recent Chicago fintech startup experience.
     <p>:telescope: I finished my fullstack software development bootcamp in June 2023 and am open to both internships and full-time dev roles.
     <p>:seedling: I'm currently learning about data structures and algorithms to better understand computer science fundamentals.
-    <p>:zap: In my free time, I'm a musician and singer working on an independent album.
+    <p>🛠️ My current personal projects include a visual novel and a personal Pokedex.</p>
+    <p>:zap: When I'm not coding, I'm a musician and singer working on an independent album.
     <p>:mailbox: Questions? Reach out to me on <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
