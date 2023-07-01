@@ -38,8 +38,8 @@ Here are some ideas to get you started:
     <p>:seedling: I'm currently learning about data structures and algorithms to better understand computer science fundamentals.
     <p>🛠️ My current personal projects include a visual novel and a personal Pokedex.</p>
     <p>:zap: When I'm not coding, I'm a visual artist, musician, and singer working on an independent album.
-    <p>:mailbox: Questions? Reach out to me on <a href="(https://www.linkedin.com/in/stefanie-engstrom/)">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <p>:mailbox: Questions? Reach out to me on   <a href="https://www.linkedin.com/in/stefanie-engstrom/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   </div>
 
