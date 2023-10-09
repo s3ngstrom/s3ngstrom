@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/stefanie-engstrom/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-    <a href="https://stefanieengstrom.com/">Visit my Portfolio! />
+    <a href="https://stefanieengstrom.com/">Visit my Portfolio!<a>
     
     <div>
     <img src="https://komarev.com/ghpvc/?username=s3ngstrom&style=flat-square&color=blue" alt=""/>
