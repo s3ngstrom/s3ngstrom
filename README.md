@@ -37,7 +37,7 @@ Here are some ideas to get you started:
     <p>:telescope: I finished my fullstack software development bootcamp in June 2023 and am open to both internships and full-time dev roles.
     <p>:seedling: I'm currently learning about data structures and algorithms to better understand computer science fundamentals.
     <p>🛠️ My current personal projects include a visual novel and a personal Pokedex.</p>
-    <p>:zap: When I'm not coding, I'm a visual artist, musician, and singer working on an independent album.
+    <p>:zap: When I'm not coding, I'm a visual artist, musician, and writer.
     <p>:mailbox: Questions? Reach out to me on   <a href="https://www.linkedin.com/in/stefanie-engstrom/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
